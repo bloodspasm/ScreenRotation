@@ -2,4 +2,5 @@
 ScreenRotationDemo
 
 #iOS屏幕旋转各类集锦(一)
-详细思路:http://www.jianshu.com/p/e52518ca70a0
+作者:覗文君
+文章地址:http://www.jianshu.com/p/e52518ca70a0
